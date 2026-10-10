@@ -31,3 +31,7 @@ Vercel serves the generated `dist` directory.
 ## Credits
 
 Built by [Tech Buzzs](https://github.com/techbuzzs). 
+
+## Live website
+
+[Open code-canvas](https://code-canvas-pearl-zeta.vercel.app)
